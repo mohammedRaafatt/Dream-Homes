@@ -3,7 +3,7 @@
   <img src="Images/HeroSection.png" alt="DreamHomes Responsive Preview">
 </p>
 
-A modern, high-impact **responsive** real estate landing page crafted to showcase premium properties and boost engagement. Built with **HTML**, **CSS**, **JavaScript**, and **Bootstrap**, DreamHomes delivers a visually rich, interactive experience ,for both clients and portfolios ,demonstrating advanced front-end skills and best coding practices.
+A modern, high-impact **responsive** real estate landing page crafted to showcase premium properties and boost engagement. Built with **HTML**, **CSS**, **JavaScript**, and **Bootstrap**, DreamHomes delivers a visually rich, interactive experience, for both clients and portfolios, demonstrating advanced front-end skills and best coding practices.
 
 ✔ Optimized to load **up to 40% faster** than standard templates  
 ✔ Boosts user interaction by **30%** with engaging features  
